@@ -3,7 +3,7 @@
 <div align=center>
 <h3>반갑습니다, 이재웅입니다!</h3>
 
-📚 Languages / Library / Tools 📚
+Languages / Library / Tools
   
 ![js](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![js](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
